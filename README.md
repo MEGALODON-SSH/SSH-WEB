@@ -6,18 +6,18 @@
 👉 <b>(UBUNTU 18)</b>
 
 ```
-apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/CoutySSH/SSH-WEB/ubuinst.sh)
+apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/MEGALODON-SSH/SSH-WEB/ubuinst.sh)
 ```
 </br>
 
 # 𓊈𒆜 CHAVE DE INSTALAÇÃO! 𒆜𓊉
 ```
-CoutySSH
+MEGALODON-SSH
 ```
 
 # 𓊈𒆜 SINCRONIZAR NA VPS SSH! 𒆜𓊉
 ```
-apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/CoutySSH/SSH-WEB/sincpainel.sh)
+apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/MEGALODON-SSH/SSH-WEB/sincpainel.sh)
 ```
 
 # 𓊈𒆜 SCRIPT COM CHECKUSER CONECTA4G! 𒆜𓊉
