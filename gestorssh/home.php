@@ -744,7 +744,7 @@ if ($usuario['tipo'] == "revenda") {
                     &copy; <script>
                         document.write(new Date().getFullYear())
                     </script>
-                    <a class="text-bold-800 grey darken-2" href="https://coutyssh.com.br" target="_blank">EMPRESA 🚀</a></span>
+                    <a class="text-bold-800 grey darken-2" href="https://youtube.com/@megalondonssh" target="_blank">EMPRESA 🚀</a></span>
                 </span>
 
             </p>
