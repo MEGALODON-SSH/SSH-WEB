@@ -1,4 +1,4 @@
-#  𓊈𒆜 PAINEL SSH WEB 𒆜𓊉
+#  𓊈𒆜 PAINEL JHOW SSH WEB 𒆜𓊉
 
 ⚠ <b>SISTEMA SUPORTADO:</b>
 </br>
