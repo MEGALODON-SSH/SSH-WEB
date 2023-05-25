@@ -1,5 +1,5 @@
 #!/bin/bash
-#[[ $(awk -F" " '{print $2}' /usr/lib/telegram) == "@MEGALODON-SSH" ]] && {
+#[[ $(awk -F" " '{print $2}' /usr/lib/telegram) == "@JHOW-MT" ]] && {
 ### CORES DA BARRA
 msg() {
   BRAN='\033[1;37m' && VERMELHO='\e[31m' && VERDE='\e[32m' && AMARELO='\e[33m'
@@ -263,7 +263,7 @@ echo ""
 echo -e "\E[44;1;37m    ATUALIZANDO O PAINEL     \E[0m"
 echo ""
 echo -e "SSH WEB" | figlet
-echo -e "                              \033[1;31mBy @MEGALODON-SSH\033[1;36m"
+echo -e "                              \033[1;31mBy @JHOWMT-SSH\033[1;36m"
 echo ""
 clear
 senha=$(cut -d"'" -f2 /var/www/html/pages/system/pass.php)
@@ -625,7 +625,7 @@ _________________________________________________
              |__] |  |  |  |__| |__| | _ 
              |__] |__|  |  |    |  | |__| 
 _________________________________________________
-                                  BY @MEGALODON-SSH
+                                  BY @JHOWMT
 
 FECHA
 
